@@ -2,6 +2,8 @@
 
 This repository is my personal learning archive for the Node.js and Express course by Net Ninja on YouTube.
 
+[the original repo of this course](https://github.com/iamshaunjp/node-crash-course)
+
 Course playlist: https://youtube.com/playlist?list=PL4cUxeGkcC9jsz4LDYc6kv3ymONOKxwBU&si=Tyb5dq9TvU6DBU3g
 
 ## Overview
@@ -13,11 +15,13 @@ The repository follows a step-by-step learning path from the basics of JavaScrip
 ## Learning Progress
 
 ### Core Node.js Fundamentals
+
 - `lesson-2/` – File system operations, global objects, modules, and streams
 - `lesson-3/` and `lesson-4/` – Creating basic HTTP servers and handling requests/responses
 - `lesson-5/` and `lesson-6/` – Express basics, app setup, and route handling
 
 ### Express & Web App Development
+
 - `lesson-7/` – Introduction to EJS views and partial templates
 - `lesson-8/` – Static assets, CSS integration, and improved app structure
 - `lesson-9/` – Blog model creation and data handling
@@ -25,6 +29,7 @@ The repository follows a step-by-step learning path from the basics of JavaScrip
 - `lesson-11/` – MVC-style project structure using controllers, routes, and cleaner architecture
 
 ## Main Project Concepts Covered
+
 - Node.js runtime and server-side JavaScript
 - Express.js framework
 - HTTP requests and routing
